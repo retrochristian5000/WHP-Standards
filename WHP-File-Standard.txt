@@ -1,0 +1,62 @@
+WHP File Extension Standard
+---------------------------
+
+Archive Extensions
+------------------
+*.7z - 7-Zip Archive
+*.bin - MacBinary Archive
+*.dmg - Apple Disk Image Archive
+*.gz - GZIP Archive
+*.img - Raw Floppy Image Archive
+*.tar - TAR Archive
+*.xz - XZ Archive
+*.zip - ZIP Archive
+
+Audio Extensions
+----------------
+*.mid - MIDI Audio
+*.mp3 - MP3 Audio
+*.wav - WAV Audio
+*.wma - Windows Media Audio
+
+Document Extensions
+-------------------
+*.doc - Old Microsoft Word Document
+*.docx - Modern Microsoft Word Document
+*.pdf - PDF Document
+*.rtf - Rich Text Format Document
+*.txt - Plain Text Document
+
+Firmware Extensions
+-------------------
+*.rom - Firmware Binary
+
+Image Extensions
+----------------
+*.art - AOL Art Image
+*.gif - Animated GIF Image
+*.img - Raw Photo Image
+*.jpg - JPEG Image
+*.png - PNG Image
+*.sgif - Static GIF Image
+
+Programming Language Extensions
+-------------------------------
+*.asp - Classic ASP Web Page
+*.c - C Source Code
+*.h - C Header
+*.html - HTML Web Page
+*.java - Java Source Code
+*.js - JavaScript Script
+*.php - PHP Web Page
+*.py - Python Script
+*.vbs - VBScript Script
+*.xml - XML-Coded Metadata
+*.yaml - YAML-Coded Metadata
+
+Video Extensions
+----------------
+*.avi - AVI Movie
+*.mpg - MPEG Movie
+*.mov - QuickTime Movie
+*.wmv - Windows Media Movie
