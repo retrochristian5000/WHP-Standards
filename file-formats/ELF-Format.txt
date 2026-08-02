@@ -1,0 +1,26 @@
+WHP ELF Format Documentation
+----------------------------
+
+ELF Header
+----------
+Magic Number: 7F 45 4C 46 (UTF-8: ELF)
+Endianness: See Endianness Codes
+ISA: See ISA Codes
+
+Endianness Codes
+----------------
+Little Endian: 01 (UTF-8: )
+Big Endian: 02 (UTF-8: )
+
+ISA Codes
+---------
+Generic: 00 (UTF-8: )
+Intel x86: 03 (UTF-8: )
+AIM PowerPC (32-bit): 14 (UTF-8: )
+AIM PowerPC (64-bit): 15 (UTF-8: )
+DEC Alpha: 29 (UTF-8: ))
+AMD x86-64: 3E (UTF-8: >)
+
+Software
+--------
+QEMU - Launches kernels in the ELF format
