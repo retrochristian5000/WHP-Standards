@@ -1,0 +1,19 @@
+WHP PNG Format Documentation
+----------------------------
+
+PNG Header
+----------
+Magic Number: 89 50 4E 47 0D 0A 1A 0A (UTF-8: PNG
+
+
+)
+IHDR Header: See IHDR Header
+
+IHDR Header
+-----------
+Color Type: See Color Type
+
+Color Type
+----------
+Truecolor: 2
+Indexed-Color: 3
