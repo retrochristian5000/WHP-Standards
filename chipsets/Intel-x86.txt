@@ -3,7 +3,7 @@ Intel x86 Chipset Family Data
 
 Opcode List
 -----------
-RET: Assembler Instruction, assignment varies
+RET (Assembler Instruction): assignment varies
 AAA: 37
 NOP (80386 Call): 67 90
 NOP (Original): 90
