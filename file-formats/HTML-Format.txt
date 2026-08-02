@@ -1,0 +1,9 @@
+WHP HTML Format Documentation
+-----------------------------
+
+HTML Tags
+---------
+<audio> - Embed Audio
+<body> - Document Body
+<iframe> - Inline Frame
+<var> - Variable
