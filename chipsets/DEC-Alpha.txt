@@ -1,0 +1,16 @@
+DEC Alpha Chipset Family Data
+-----------------------------
+
+Opcode List
+-----------
+LDA: 08
+LDL_L: 2A
+LDQ_L: 2B
+STL: 2C
+STQ: 2D
+
+Register List
+-------------
+R0 (Function Return Value): v0
+R26 (Return Address Register): ra
+R31 (Pseudo-Register): zero
