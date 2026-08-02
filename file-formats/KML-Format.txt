@@ -1,0 +1,7 @@
+WHP KML Format Documentation
+----------------------------
+
+KML Tags
+--------
+<Document> - Container for KML
+<Region> - Region Container
