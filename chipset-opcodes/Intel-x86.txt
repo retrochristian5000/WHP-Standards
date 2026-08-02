@@ -1,0 +1,29 @@
+Intel x86 Chipset Family Opcodes
+--------------------------------
+
+Assembly-to-Opcode List
+-----------------------
+RET: Assembler Instruction, assignment varies
+AAA: 37
+NOP (80386 Call): 67 90
+NOP (Original): 90
+CBW: 98
+CWD: 99
+PUSHFD: 9C
+POPFD: 9D
+IRET: CF
+FNINIT: DB E3
+CLD: FC
+STD: FD
+
+Intel x86 Family Members
+------------------------
+Intel 8086 - Original CPU Member
+Intel 8087 - Original FPU Member
+
+Intel x86 Opcode Extensions
+---------------------------
+Intel x86 (1978) - Original 16-bit Opcode Set
+Intel x87 - FPU Extension
+Intel IA-32 (1985) - 32-bit Extension
+AMD 3DNow! (1998) - 3D Graphics Extension
