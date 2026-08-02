@@ -1,0 +1,19 @@
+WHP JavaScript Format Documentation
+-----------------------------------
+
+JavaScript Objects
+------------------
+Number - Floating-Point Number Function
+
+Number Constructors
+-------------------
+Number(value): value = numeric value of object
+
+Number Static Methods
+---------------------
+isNaN(value): value = value tested for NaN
+
+Number Static Properties
+------------------------
+MAX_VALUE = 2¹⁰²⁴-2⁹⁷¹
+NaN = Value of NaN Object
