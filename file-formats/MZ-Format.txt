@@ -1,0 +1,16 @@
+WHP MZ Format Documentation
+---------------------------
+
+MZ Header
+---------
+Magic Number: 5A 4D (UTF-8: ZM)
+
+MZ Variants
+-----------
+NE - 16-bit Windows Executable
+PE - 32-bit Windows Executable
+
+NE Extensions
+-------------
+Reserved (qword): 00 00 00 00 00 00 00 00
+Reserved (20 bytes): 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00 00
