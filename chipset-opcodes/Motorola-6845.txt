@@ -1,0 +1,8 @@
+Motorola 6845 Chipset Family Data
+---------------------------------
+
+Register List
+-------------
+R00 (Horizontal Total): 00
+R01 (Horizontal Displayed): 01
+R04 (Vertical Total): 04
